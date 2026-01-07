@@ -135,6 +135,7 @@ int main()
     prime_solver.printBoard();
 
     cout << "\nSolving...\n\n";
+    cout << "\nthe sudocraft\n\n";
 
     if (prime_solver.solveSudoku(board)) // Solve the puzzle
     {
